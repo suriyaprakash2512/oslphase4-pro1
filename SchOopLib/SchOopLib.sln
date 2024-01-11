@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchOopLib", "SchOopLib.csproj", "{3E6213CA-F69B-4CB3-9066-3213836DCCAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "..\UnitTestProject1\UnitTestProject1.csproj", "{5384B15A-51E4-4392-8B12-7DAEBB5F7D22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E6213CA-F69B-4CB3-9066-3213836DCCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6213CA-F69B-4CB3-9066-3213836DCCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6213CA-F69B-4CB3-9066-3213836DCCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6213CA-F69B-4CB3-9066-3213836DCCAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5384B15A-51E4-4392-8B12-7DAEBB5F7D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5384B15A-51E4-4392-8B12-7DAEBB5F7D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5384B15A-51E4-4392-8B12-7DAEBB5F7D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5384B15A-51E4-4392-8B12-7DAEBB5F7D22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7450E7F7-E81A-4003-B99B-B9AC650B536B}
+	EndGlobalSection
+EndGlobal
